@@ -1,0 +1,3 @@
+@inproceedings{HaoboWang2022PiCOCL,  
+title={PiCO: Contrastive Label Disambiguation for Partial Label Learning},  author={Haobo Wang and Ruixuan Xiao and Yixuan Li and Lei Feng and Gang Niu and Gang Chen and Junbo Zhao},  
+year={2022}}
