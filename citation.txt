@@ -1,0 +1,5 @@
+@inproceedings{REPO-133,
+    author = "Wang, Haobo and Xiao, Ruixuan and Li, Yixuan and Feng, Lei and Niu, Gang and Chen, Gang and Zhao, Junbo",
+    title = "{PiCO: Contrastive Label Disambiguation for Partial Label Learning}",
+    year = "2022"
+}
